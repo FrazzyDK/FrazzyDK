@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FrazzyDK I love FiveM developing.
+- 👀 I’m interested in FiveM coding.
+- 🌱 I’m currently learning Lua, Skinning EUP and cars.
+- 📫 How to reach me Frazzy#9999
